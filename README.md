@@ -18,4 +18,4 @@ I'm a fourth-year CS undergraduate at the University of Massachusetts Lowell and
 
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/jonathan-spanos/)!
+You can reach me at [LinkedIn](https://www.linkedin.com/in/jonathan-spanos/) or at my email jonspanos04@outlook.com!
