@@ -12,8 +12,8 @@ I'm a fourth-year CS undergraduate at the University of Massachusetts Lowell and
 - Developed teleoperation software for the UR5e robotic arm with an Oculus Quest 2 controller with ROS2 to receive controller inputs and manipulate the robotic arm.
 - Used for training reinforcement learning algorithms on robotic arms and for public demonstrations during lab tours
 
-###  2D Mapping Robot
-https://github.com/JonSpanos/2D-Mapping-Robot
+###  [2D Mapping Robot](https://github.com/JonSpanos/2D-Mapping-Robot) (Links to Repository)
+[![Youtube video of 2D Mapping Robot](https://img.youtube.com/vi/_xSmAPgGAfI/0.jpg)](https://www.youtube.com/watch?v=_xSmAPgGAfI)
 - Designed, built, and programmed a simple mobile robot as a 2d mapping robot for scanning a room with controller input in C++.
 - Implemented a graphical interface to see scan of room or objects.
 
