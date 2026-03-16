@@ -1,5 +1,6 @@
 # Jonathan Spanos
-I'm a fourth-year CS undergraduate at the University of Massachusetts Lowell and a robotics lab assistant at PeARL Labs
+I'm a fourth-year CS undergraduate at the University of Massachusetts Lowell and a robotics lab assistant at PeARL Labs. I've been passionate about computer science since my freshman year of high school, where I joined the robotics club and rose to be the head programmer in my junior year. I hope anyone reading this finds these projects interesting!
+###### If a project doesn't have a github repository it's because I'm not allowed to share the code at this moment. Sorry!
 
 ## Projects (Click on images for videos)
 
@@ -19,6 +20,7 @@ I'm a fourth-year CS undergraduate at the University of Massachusetts Lowell and
 
 ### Spot Robot Grasp and Deliver
 [![Youtube video of Spot robot handing drinks to user when asked](https://img.youtube.com/vi/QSNiaySv9KU/0.jpg)](https://www.youtube.com/watch?v=QSNiaySv9KU)
+- Assisted with the programming on a graduate student's thesis
 - Developed grasping and delivering logic from april tag detection through ROS2 with Spot API.
 
 
