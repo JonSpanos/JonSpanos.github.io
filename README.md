@@ -1,5 +1,6 @@
 # Jonathan Spanos
 **Robotics Software Engineer**
+
 Building ROS2, computer vision, and Machine Learning systens for real-world robots (Spot, robotic arms, exoskeletons)
 ###### If a project doesn't have a github repository it's because I'm not allowed to share the code at this moment. Sorry!
 
