@@ -2,6 +2,7 @@
 **Robotics Software Engineer**
 
 Building ROS2, computer vision, and Machine Learning systens for real-world robots (Spot, robotic arms, exoskeletons)
+Recipient of the Outstanding Computer Science Research Assistantship Award at the University of Massachusetts - Lowell
 ###### If a project doesn't have a github repository it's because I'm not allowed to share the code at this moment. Sorry!
 
 ## Projects (Click on images for videos)
@@ -24,6 +25,9 @@ Building ROS2, computer vision, and Machine Learning systens for real-world robo
 ### [Design of Fuzzy Logic Parameter Tuners for Upper-Limb Assistive Robots](https://arxiv.org/pdf/2405.02495) (Links to paper)
 - Created a fuzzy logic controller in Python resulting in a 50%-80% increase in performance of tasks in the exoskeleton arm brace. Users reported more comfort and less tuning hassle.
 - Published paper showcasing results and logic, was a finalist at the 2024 Ubiquitous Robots Conference.
+
+### [Investigating the Generalizability of Assistive Robots Models over Various Tasks]() (Links to paper)
+- In this paper, we investigate the generalizability of different modeling methods. We focus on constructing the dynamic model of an assistive exoskeleton using six data-driven regression algorithms.
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/jonathan-spanos/) or at my email jonspanos04@outlook.com!
