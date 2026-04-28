@@ -2,6 +2,7 @@
 **Robotics Software Engineer**
 
 Building ROS2, computer vision, and Machine Learning systens for real-world robots (Spot, robotic arms, exoskeletons)
+
 Recipient of the Outstanding Computer Science Research Assistantship Award at the University of Massachusetts - Lowell
 ###### If a project doesn't have a github repository it's because I'm not allowed to share the code at this moment. Sorry!
 
