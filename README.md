@@ -1,5 +1,5 @@
 # Jonathan Spanos
-**Robotics Software Engineer**
+**Robotics Test Engineer**
 
 Building ROS2, computer vision, and Machine Learning systens for real-world robots (Spot, robotic arms, exoskeletons)
 
@@ -29,6 +29,14 @@ Recipient of the Outstanding Computer Science Research Assistantship Award at th
 
 ### [Investigating the Generalizability of Assistive Robots Models over Various Tasks]() (Links to paper)
 - In this paper, we investigate the generalizability of different modeling methods. We focus on constructing the dynamic model of an assistive exoskeleton using six data-driven regression algorithms.
+
+## Misc. Personal Projects
+
+### One Piece Wordle Discord Activity
+[Place image of game frontend here]
+<img width="617" height="757" alt="image" src="https://github.com/user-attachments/assets/2df0ec1d-00a9-47ba-b132-5dd52de033ba" />
+- Created a discord activity to play a Wordle-inspired One Piece character guessing game
+- Built with HTML, Javascript, and SQL using Cloudflared Worker Pages
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/jonathan-spanos/) or at my email jonspanos04@outlook.com!
