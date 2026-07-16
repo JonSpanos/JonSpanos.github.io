@@ -33,8 +33,8 @@ Recipient of the Outstanding Computer Science Research Assistantship Award at th
 ## Misc. Personal Projects
 
 ### One Piece Wordle Discord Activity
-[Place image of game frontend here]
-<img width="617" height="757" alt="image" src="https://github.com/user-attachments/assets/2df0ec1d-00a9-47ba-b132-5dd52de033ba" />
+<img width="450" height="307" alt="image" src="https://github.com/user-attachments/assets/2ee0e094-cdcf-4e3a-884b-b4a7e5c3dce7" />
+<img width="308" height="378" alt="image" src="https://github.com/user-attachments/assets/2df0ec1d-00a9-47ba-b132-5dd52de033ba" />
 - Created a discord activity to play a Wordle-inspired One Piece character guessing game
 - Built with HTML, Javascript, and SQL using Cloudflared Worker Pages
 
